@@ -4,7 +4,7 @@ body{background:var(--ink);color:var(--paper);font-family:'Inter Tight',system-u
 a{color:var(--y)}
 .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
 header{display:flex;justify-content:space-between;align-items:center;padding:20px 0}
-header img{height:46px}
+header img{height:84px}
 nav a{color:var(--paper);text-decoration:none;margin-left:18px;font-weight:600;font-size:15px}
 .hero{padding:70px 0 50px}
 .tag{display:inline-block;background:var(--y);color:var(--ink);font-weight:800;letter-spacing:.18em;font-size:13px;padding:7px 16px;border-radius:99px}
